@@ -1,0 +1,191 @@
+.navbarheader {
+	font-family:"Freestyle Script", Helvetica, sans-serif;
+	font-size:25pt;
+	background-color:black;
+	color:yellow;
+	text-shadow: 1px 2px 4px #ffffff;
+	width:1024px;
+	
+	
+}
+.navbarheader .navbar-brand {
+	padding-left:10px;
+	font-family:"French Script MT",Helvetica, sans-serif;
+	font-size:40pt;
+	color:yellow;
+	text-shadow: 2px 2px 4px #ffffff;
+	
+	
+}
+.dropstyle {
+	font-size:20px;
+}
+
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+	width:1024px;
+	height:800px;
+}
+#bg {
+  position: fixed; 
+  top: 0px;
+  left:0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+.formimage {
+	margin: 0 0;
+	padding-bottom:0px;
+	padding-left:0px;
+	color:black;
+}
+.budgetstyle {
+	height:1000px;
+	background:#dfdfde;
+	opacity: 0.9;
+	
+}
+.accountarea {
+	height:300px;
+	background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    opacity: 0.9;
+    top:0;
+    position: center;
+    color: #ffffff; 
+	padding-left:80px;
+	border-color:#550085;
+	
+}
+.accountstyle {
+	color:black;
+	
+}
+
+
+
+h1 {
+	font-family:"Bradley Hand ITC", Helvetica, sans-serif;
+	font-size:16pt;
+	padding-left:200px;
+	text-shadow: 1px 2px 4px #eec1e1;	
+	padding-top:20px;
+	
+	
+}
+td{
+	padding-left:10px;
+	padding-bottom:30px;
+}
+
+h2{
+	
+	padding-left:150px;
+	padding-top:0;
+	padding-bottom:10px;
+	color:black;
+	font-family:Gungsuh;
+  
+	
+}
+h3{
+	font-family:"Segoe Marker", Helvetica, sans-serif;
+	font-size:15pt;
+	color:black;
+	text-shadow:1px 1px 0px #purple;
+	
+	padding-bottom:10px;
+	
+}
+h4 {
+	font-family:"Segoe Marker", Helvetica, sans-serif;
+	font-size:20pt;
+	color:#ffffff;
+	
+	
+}
+h6 {
+	font-size:20px;
+	padding-left:450px;
+	font-family:"Bradley Hand ITC", Helvetica, sans-serif;
+	color:white;
+}
+
+
+
+
+.thumbnail{
+    position:relative;
+	padding-left:30px;
+	color:black;
+	
+	
+
+}
+
+.details {
+	font-family:"Estrangelo Edessa", Helvetica, sans-serif;
+	font-size:14pt;
+    position: absolute; 
+    z-index: 2; 
+    top: 100px;
+	padding-left:250px;
+    color: #ffffff; 
+}
+.slidestyle {
+	padding-left:0px;
+	padding-right:150px;
+	height:460px;
+}
+
+.ask {
+	color:black;
+	font-family:verdana;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+
+button {
+	padding-left:490px;
+	padding-right:450px;
+}
+
+.detailfooter {
+	margin:0 0 0 0;
+	background: black;
+    opacity: 0.9;
+    position: center;
+    color: white; 
+	height:200px;
+	border-color:black;
+}
+.navbarfooter {
+	font-family:verdana;
+	font-size:7pt;
+	padding-left:350px;
+	padding-top:20px;
+	background-color:black;
+	color:white;
+	text-shadow: 1px 2px 4px #ffffff;
+	width:1024px;
+	position:bottom;
+	
+}
+
+
+
+
+
+
+.footer {
+	
+	background-color:black;
+	width:1024px;
+    position: absolute;
+    height: 50px;
+	padding-top:5px;
+}
+

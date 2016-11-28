@@ -1,0 +1,53 @@
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+	width:1000px;
+	
+}
+#bg {
+  position: fixed; 
+  top: 0px;
+  left:0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+.accountarea {
+	 margin:80px 20px 20px;
+	height:200px;
+	background: rgba(0, 0, 0, 0.5) none repeat scroll 0 0;
+    opacity: 0.9;
+    position: center;
+    color: #ffffff; 
+	padding-left:250px;
+	border-color:#550085;
+}
+.accountstyle {
+	color:black;
+	
+}
+.thumbnail{
+    position:relative;
+
+}
+.mess{
+	font-size:35pt;
+	padding-right:10px;
+	padding-bottom:30px;
+	padding-top:50px;
+	font-family:"French Script MT", Helvetica, sans-serif;
+}
+.messwrong {
+	font-size:10pt;
+	padding-right:10px;
+	padding-bottom:30px;
+	padding-top:50px;
+	color:red;
+}
+.redirect {
+	padding-right:10px;
+	padding-bottom:30px;
+	padding-top:50px;
+	padding-left: 400px;
+}

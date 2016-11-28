@@ -1,0 +1,77 @@
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+	width:1000px;
+	
+}
+#bg {
+  position: fixed; 
+  top: 0px;
+  left:0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+td
+{
+ padding-top: 10px;
+ padding-left:50px;
+ text-shadow: 1px 2px 4px #550085;
+ font-size:12pt;
+}
+.headerstyle {
+	
+}
+.accountarea {
+    margin:80px 20px 20px;
+	height:500px;
+	background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+    opacity: 0.9;
+    position: center;
+    color: #ffffff; 
+	padding-left:250px;
+	border-color:#550085;
+
+	
+}
+.accountstyle {
+	color:black;
+}
+h1 {
+	font-family:"Bradley Hand ITC", Helvetica, sans-serif;
+	font-size:20pt;
+	font-style:bold;
+	padding-left:100px;
+	text-shadow: 1px 2px 4px #550085;	
+	padding-top:20px;
+}
+h2{
+	
+	padding-left:130px;
+	padding-top:0;
+	text-shadow: 1px 2px 4px #550085;	
+}
+h3{
+	font-family:"Bradley Hand ITC", Helvetica, sans-serif;
+	font-size:16pt;
+	font-style:bold;
+	padding-left:100px;
+	text-shadow: 1px 2px 4px #550085;	
+	padding-top:20px;
+}
+h4{
+	font-family:"French Script MT", Helvetica, sans-serif;
+	font-size:50pt;
+	font-style:bold;
+	padding-left:60px;
+	text-shadow: 1px 2px 4px #550085;	
+	padding-top:20px;
+}
+#error
+{
+ color: brown;
+ font-family:Verdana, Geneva, sans-serif;
+ font-weight:bolder;
+ text-transform:capitalize;
+}
